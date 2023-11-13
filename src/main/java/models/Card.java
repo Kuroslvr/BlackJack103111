@@ -12,7 +12,7 @@ public class Card {
         this.rank = rank;
     }
 
-    // Getters and other utility methods
+    // Getters and other utility methodssssss
 
     public Rank getRank() {
         return rank;
